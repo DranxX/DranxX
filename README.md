@@ -17,21 +17,25 @@
   <table border="0" cellpadding="15">
     <tr>
       <td align="center">
-        <p align="center"><b>💻 LANGUAGES</b></p>
-        <img src="https://skillicons.dev/icons?i=lua,python,js,java,cpp,cs,ts" height="45" />
+        <p align="center"><b>💻 PROGRAMMING LANGUAGES</b></p>
+        <p align="center"><sub style="color: #00ff00;">EXPERT ON</sub></p>
+        <img src="https://skillicons.dev/icons?i=lua,python" height="50" />
+        <br>
+        <p align="center"><sub style="color: #aaaaaa;">PROFICIENCY ON</sub></p>
+        <img src="https://skillicons.dev/icons?i=js,java,cpp,cs,ts" height="40" />
       </td>
     </tr>
     <tr>
       <td align="center">
         <p align="center"><b>🎮 GAME DEVELOPMENT</b></p>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Roblox_Studio_icon_2025.svg" width="45" height="45" title="Roblox Studio 2025" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=unity,godot,blender" height="45" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Roblox_Studio_icon_2025.svg" width="48" height="48" title="Roblox Studio 2025" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=unity,godot,blender" height="48" />
       </td>
     </tr>
     <tr>
       <td align="center">
         <p align="center"><b>🤖 AI ENGINEERING</b></p>
-        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" height="45" />
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" height="48" />
         <br><br>
         <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="30" />
       </td>
@@ -39,7 +43,7 @@
     <tr>
       <td align="center">
         <p align="center"><b>🛡️ SECURITY & INFRASTRUCTURE</b></p>
-        <img src="https://skillicons.dev/icons?i=kali,linux,bash,docker" height="45" />
+        <img src="https://skillicons.dev/icons?i=kali,linux,bash,docker" height="48" />
         <br><br>
         <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="30" />
       </td>
@@ -47,7 +51,7 @@
     <tr>
       <td align="center">
         <p align="center"><b>🛠️ WORKFLOW & TOOLS</b></p>
-        <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,postman,mysql" height="45" />
+        <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,postman,mysql" height="48" />
       </td>
     </tr>
   </table>
