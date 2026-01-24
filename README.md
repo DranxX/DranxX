@@ -71,7 +71,7 @@
   <p>
     <img src="https://forthebadge.com/images/badges/powered-by-oxygen.svg">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg">
-    <img src="https://forthebadge.com/images/badges/approved-by-my-mom.svg">
+    <img src= "https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=APPROVED+BY&secondaryLabel=MOM&primaryBGColor=%2331C4F3&secondaryBGColor=%23fbff00&primaryTextColor=%23FFFFFF&primaryFontSize=12&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryTextColor=%23000000&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase">
   </p>
 
   <br>
