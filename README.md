@@ -22,7 +22,7 @@
         <img src="https://skillicons.dev/icons?i=lua,python" height="50" />
         <br>
         <p align="center"><sub style="color: #aaaaaa;">PROFICIENCY ON</sub></p>
-        <img src="https://skillicons.dev/icons?i=js,java,cpp,cs,ts" height="40" />
+        <img src="https://skillicons.dev/icons?i=js,java,cpp,cs,ts,php" height="40" />
       </td>
     </tr>
     <tr>
@@ -30,6 +30,7 @@
         <p align="center"><b>🎮 GAME DEVELOPMENT</b></p>
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Roblox_Studio_icon_2025.svg" width="48" height="48" title="Roblox Studio 2025" />&nbsp;
         <img src="https://skillicons.dev/icons?i=unity,godot,blender" height="48" />
+        <img src="https://static.wikia.nocookie.net/logopedia/images/0/0f/Minecraft_Bedrock_2023.svg/revision/latest?cb=20230920113315" width="45" height="45" title="Roblox Studio 2025" />&nbsp;
       </td>
     </tr>
     <tr>
