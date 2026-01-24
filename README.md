@@ -1,28 +1,75 @@
-# Hi, I'm DranxX <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=35 />
-<br>
 <div align="center">
+  <img src="https://raw.githubusercontent.com/justinaxiao/justinaxiao/main/assets/header_border.gif" width="100%">
+  <br><br>
 
-<a href="https://www.instagram.com/the_dranxx">
-  <img align="left" alt="Instagram" width="21px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />
-</a>
-<a href="https://youtube.com/@TheDranxX">
-  <img align="left" alt="Youtube" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/e94212a487d744cb75e75241cb93716836b2d1e2/images/svg/youtube.svg" />
-</a>
-<a href="https://tiktok.com/@thedranxx">
-  <img align="left" alt="Tiktok" width="21px" src="https://static.cdnlogo.com/logos/t/69/tiktok-icon.svg" />
-</a>
+  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm DranxX</h1>
+  <p><b>4+ Years Experience | Game Dev • AI Engineering • Software Engineering • Jr. Pentesting</b></p>
 
-  
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/powered-by-oxygen.svg">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg">
-  <img src="https://forthebadge.com/images/badges/approved-by-my-mom.svg">
+  <p>
+    <a href="https://discord.gg/Bb3aY3Wrxj"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="https://youtube.com/@TheDranxX"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+    <a href="https://instagram.com/the_dranxx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://tiktok.com/@thedranxx"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  </p>
+
   <br>
-</p>
 
-##
-## ⭐ GitHub Stats
+  <table border="0" cellpadding="15">
+    <tr>
+      <td align="center">
+        <p align="center"><b>💻 LANGUAGES</b></p>
+        <img src="https://skillicons.dev/icons?i=lua,python,js,java,cpp,cs,ts" height="45" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <p align="center"><b>🎮 GAME DEVELOPMENT</b></p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Roblox_Studio_icon_2025.svg" width="45" height="45" title="Roblox Studio 2025" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=unity,godot,blender" height="45" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <p align="center"><b>🤖 AI ENGINEERING</b></p>
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" height="45" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="30" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <p align="center"><b>🛡️ SECURITY & INFRASTRUCTURE</b></p>
+        <img src="https://skillicons.dev/icons?i=kali,linux,bash,docker" height="45" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="30" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <p align="center"><b>🛠️ WORKFLOW & TOOLS</b></p>
+        <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,postman,mysql" height="45" />
+      </td>
+    </tr>
+  </table>
 
-![](https://github-readme-stats.vercel.app/api?username=DranxX&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DranxX&theme=neon&&layout=compact)
+  <br>
+
+  <h3>📊 GitHub Analytics</h3>
+  <table border="0">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=DranxX&theme=neon&hide_border=false&count_private=true&show_icons=true" height="175px" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DranxX&theme=neon&layout=compact&hide_border=false" height="175px" /></td>
+    </tr>
+  </table>
+
+  <br><br>
+
+  <p>
+    <img src="https://forthebadge.com/images/badges/powered-by-oxygen.svg">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg">
+    <img src="https://forthebadge.com/images/badges/approved-by-my-mom.svg">
+  </p>
+
+  <br>
+  <img src="https://raw.githubusercontent.com/justinaxiao/justinaxiao/main/assets/footer_border.gif" width="100%">
 </div>
