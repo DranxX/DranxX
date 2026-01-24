@@ -36,7 +36,7 @@
     <tr>
       <td align="center">
         <p align="center"><b>🤖 AI ENGINEERING</b></p>
-        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" height="48" />
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,matlab" height="48" />
         <br><br>
         <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="30" />
       </td>
@@ -44,7 +44,7 @@
     <tr>
       <td align="center">
         <p align="center"><b>🛡️ SECURITY & INFRASTRUCTURE</b></p>
-        <img src="https://skillicons.dev/icons?i=kali,linux,bash,docker" height="48" />
+        <img src="https://skillicons.dev/icons?i=kali,linux,bash,docker,replit,vercel,netlify" height="48" />
         <br><br>
         <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="30" />
       </td>
@@ -52,7 +52,7 @@
     <tr>
       <td align="center">
         <p align="center"><b>🛠️ WORKFLOW & TOOLS</b></p>
-        <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,postman,mysql" height="48" />
+        <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,nodejs,mysql,gradle" height="48" />
       </td>
     </tr>
   </table>
