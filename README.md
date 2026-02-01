@@ -22,7 +22,7 @@
         <img src="https://skillicons.dev/icons?i=lua,python" height="50" />
         <br>
         <p align="center"><sub style="color: #aaaaaa;">PROFICIENCY ON</sub></p>
-        <img src="https://skillicons.dev/icons?i=js,java,cpp,cs,ts,php" height="40" />
+        <img src="https://skillicons.dev/icons?i=js,java,cpp,cs,php" height="40" />
       </td>
     </tr>
     <tr>
@@ -45,6 +45,7 @@
       <td align="center">
         <p align="center"><b>🛡️ SECURITY & INFRASTRUCTURE</b></p>
         <img src="https://skillicons.dev/icons?i=kali,linux,bash,docker,replit,vercel,netlify" height="48" />
+        <img src="https://railway.com/brand/logo-dark.svg" height="48"/>
         <br><br>
         <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="30" />
       </td>
