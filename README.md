@@ -78,6 +78,6 @@
 
   <br>
   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e3fc6f,100:2f8991&height=65&section=footer"/>
   </p>
 </div>
