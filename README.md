@@ -63,8 +63,11 @@
   <h3>📊 GitHub Analytics</h3>
   <table border="0">
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=DranxX&theme=neon&hide_border=false&count_private=true&show_icons=true" height="175px" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DranxX&theme=neon&layout=compact&hide_border=false" height="175px" /></td>
+      <p align="center">
+        <a href="https://github.com/DranxX">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=DranxX&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,2f8991&title_color=e3fc6f&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
     </tr>
   </table>
 
@@ -77,5 +80,7 @@
   </p>
 
   <br>
-  <img src="https://raw.githubusercontent.com/justinaxiao/justinaxiao/main/assets/footer_border.gif" width="100%">
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  </p>
 </div>
