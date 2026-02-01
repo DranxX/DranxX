@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/justinaxiao/justinaxiao/main/assets/header_border.gif" width="100%">
-  <br><br>
-
   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm DranxX</h1>
   <p><b>4+ Years Experience | Game Dev • AI Engineering • Software Engineering • Jr. Pentesting</b></p>
 
