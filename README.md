@@ -1,6 +1,6 @@
 <div align="center">
   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm DranxX</h1>
-  <p><b>4+ Years Experience | Game Dev • AI Engineering • Software Engineering • Jr. Pentesting</b></p>
+  <p><b>4+ Years Experience | Game Dev • AI Engineering • Jr. Pentesting</b></p>
 
   <p>
     <a href="https://discord.gg/Bb3aY3Wrxj"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
