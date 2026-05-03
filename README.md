@@ -62,7 +62,7 @@
     <tr>
       <p align="center">
         <a href="https://github.com/DranxX">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=DranxX&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,2f8991&title_color=e3fc6f&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats-gamma-ten-31.vercel.app/api?username=DranxX&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,2f8991&title_color=e3fc6f&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a> 
       </p>
     </tr>
