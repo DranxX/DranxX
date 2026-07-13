@@ -19,7 +19,7 @@
         <img src="https://skillicons.dev/icons?i=lua,python" height="50" />
         <br>
         <p align="center"><sub style="color: #aaaaaa;">PROFICIENCY ON</sub></p>
-        <img src="https://skillicons.dev/icons?i=js,java,cpp,cs,php" height="40" />
+        <img src="https://skillicons.dev/icons?i=js,java,go,php" height="40" />
       </td>
     </tr>
     <tr>
