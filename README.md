@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td align="center">
-        <p align="center"><b>🤖 AI ENGINEERING</b></p>
+        <p align="center"><b>🤖 AI/ML ENGINEERING</b></p>
         <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,matlab" height="48" />
         <br><br>
         <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="30" />
